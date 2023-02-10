@@ -1,0 +1,12 @@
+start 12
+a 8
+b 11
+c 5
+d 8
+e 4
+f 4
+h 6
+p 11
+q 9
+r 6
+goal 0
